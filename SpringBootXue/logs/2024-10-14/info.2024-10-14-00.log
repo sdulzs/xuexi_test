@@ -1,0 +1,10 @@
+2024-10-14 19:44:00,940 INFO [http-nio-63110-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-14 19:44:00,940 INFO [http-nio-63110-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-14 19:44:00,948 INFO [http-nio-63110-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-10-14 19:44:00,948 INFO [http-nio-63110-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-10-14 19:44:00,953 INFO [http-nio-63110-exec-1][FrameworkServlet.java:547] - Completed initialization in 5 ms
+2024-10-14 19:44:00,953 INFO [http-nio-63110-exec-1][FrameworkServlet.java:547] - Completed initialization in 5 ms
+2024-10-14 19:44:01,023 INFO [http-nio-63110-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-10-14 19:44:01,023 INFO [http-nio-63110-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-10-14 19:44:01,339 INFO [http-nio-63110-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-10-14 19:44:01,339 INFO [http-nio-63110-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.

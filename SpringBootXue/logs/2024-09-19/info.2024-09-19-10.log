@@ -1,0 +1,58 @@
+2024-09-19 10:06:49,383 WARN [Thread-17][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-09-19 10:06:49,383 WARN [Thread-23][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-09-19 10:06:49,383 WARN [Thread-17][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-09-19 10:06:49,383 WARN [Thread-23][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-09-19 10:06:49,400 WARN [Thread-23][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-09-19 10:06:49,400 WARN [Thread-23][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-09-19 10:06:49,401 WARN [Thread-17][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-09-19 10:06:49,401 WARN [Thread-17][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-09-19 10:06:49,457 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-19 10:06:49,457 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-19 10:06:49,458 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-09-19 10:06:49,458 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-09-19 10:06:49,459 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-19 10:06:49,459 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-19 10:06:49,462 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-19 10:06:49,462 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-19 10:06:49,494 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-19 10:06:49,494 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-19 10:06:49,498 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-19 10:06:49,498 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-19 10:06:49,503 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-19 10:06:49,503 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-19 10:57:32,375 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-09-19 10:57:32,375 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-09-19 10:57:32,786 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-09-19 10:57:32,786 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-09-19 10:57:34,333 INFO [main][GenericScope.java:295] - BeanFactory id=47278d3f-3ef5-3011-9220-02fb98f70262
+2024-09-19 10:57:34,333 INFO [main][GenericScope.java:295] - BeanFactory id=47278d3f-3ef5-3011-9220-02fb98f70262
+2024-09-19 10:57:34,817 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63110 (http)
+2024-09-19 10:57:34,817 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63110 (http)
+2024-09-19 10:57:34,824 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63110"]
+2024-09-19 10:57:34,824 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63110"]
+2024-09-19 10:57:34,824 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-09-19 10:57:34,824 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-09-19 10:57:34,824 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-09-19 10:57:34,824 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-09-19 10:57:34,949 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-09-19 10:57:34,949 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-09-19 10:57:34,949 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2149 ms
+2024-09-19 10:57:34,949 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2149 ms
+2024-09-19 10:57:36,033 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-09-19 10:57:36,033 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-09-19 10:57:36,131 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-09-19 10:57:36,131 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-09-19 10:57:36,224 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'taskScheduler'
+2024-09-19 10:57:36,224 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'taskScheduler'
+2024-09-19 10:57:36,283 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63110"]
+2024-09-19 10:57:36,283 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63110"]
+2024-09-19 10:57:36,303 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63110 (http) with context path '/system'
+2024-09-19 10:57:36,303 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63110 (http) with context path '/system'
+2024-09-19 10:57:36,304 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-09-19 10:57:36,304 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-09-19 10:57:36,313 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-09-19 10:57:36,313 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-09-19 10:57:36,341 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-09-19 10:57:36,341 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-09-19 10:57:36,458 INFO [main][StartupInfoLogger.java:61] - Started SystemApplication in 4.627 seconds (JVM running for 5.789)
+2024-09-19 10:57:36,458 INFO [main][StartupInfoLogger.java:61] - Started SystemApplication in 4.627 seconds (JVM running for 5.789)

@@ -1,0 +1,40 @@
+2024-08-20 00:02:41,906 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-20 00:02:41,906 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-08-20 00:02:41,911 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-20 00:02:41,911 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-08-20 00:02:41,916 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-20 00:02:41,916 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-08-20 00:02:49,348 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-20 00:02:49,348 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-08-20 00:02:49,590 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-20 00:02:49,590 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-08-20 00:02:50,007 INFO [main][GenericScope.java:295] - BeanFactory id=a8c3d770-0254-3900-b0ad-9d62a9f09385
+2024-08-20 00:02:50,007 INFO [main][GenericScope.java:295] - BeanFactory id=a8c3d770-0254-3900-b0ad-9d62a9f09385
+2024-08-20 00:02:50,150 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-20 00:02:50,150 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-08-20 00:02:50,156 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-20 00:02:50,156 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-08-20 00:02:50,156 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-20 00:02:50,156 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-08-20 00:02:50,156 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-20 00:02:50,156 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-08-20 00:02:50,204 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-20 00:02:50,204 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-08-20 00:02:50,204 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 606 ms
+2024-08-20 00:02:50,204 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 606 ms
+2024-08-20 00:02:50,647 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-20 00:02:50,647 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-08-20 00:02:50,700 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-20 00:02:50,700 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-08-20 00:02:50,788 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-20 00:02:50,788 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-08-20 00:02:50,799 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-20 00:02:50,799 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-08-20 00:02:50,799 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-20 00:02:50,799 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-08-20 00:02:50,805 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-20 00:02:50,805 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-08-20 00:02:50,823 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-20 00:02:50,823 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-08-20 00:02:50,912 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 1.779 seconds (JVM running for 2.199)
+2024-08-20 00:02:50,912 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 1.779 seconds (JVM running for 2.199)

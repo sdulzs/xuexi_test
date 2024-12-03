@@ -1,0 +1,66 @@
+2024-09-18 18:49:33,068 WARN [Thread-17][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-09-18 18:49:33,068 WARN [Thread-23][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-09-18 18:49:33,068 WARN [Thread-17][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-09-18 18:49:33,068 WARN [Thread-23][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-09-18 18:49:33,077 WARN [Thread-23][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-09-18 18:49:33,077 WARN [Thread-23][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-09-18 18:49:33,078 WARN [Thread-17][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-09-18 18:49:33,078 WARN [Thread-17][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-09-18 18:49:33,112 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-18 18:49:33,112 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-18 18:49:33,113 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-18 18:49:33,113 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-18 18:49:33,115 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-18 18:49:33,115 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-18 18:49:43,388 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-09-18 18:49:43,388 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-09-18 18:49:44,736 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-09-18 18:49:44,736 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-09-18 18:49:45,235 INFO [main][GenericScope.java:295] - BeanFactory id=5bc8a6b3-0500-3fb2-899b-820b55afc91a
+2024-09-18 18:49:45,235 INFO [main][GenericScope.java:295] - BeanFactory id=5bc8a6b3-0500-3fb2-899b-820b55afc91a
+2024-09-18 18:49:45,390 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-09-18 18:49:45,390 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-09-18 18:49:45,396 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-09-18 18:49:45,396 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-09-18 18:49:45,396 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-09-18 18:49:45,396 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-09-18 18:49:45,396 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-09-18 18:49:45,396 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-09-18 18:49:45,456 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-09-18 18:49:45,456 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-09-18 18:49:45,457 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 712 ms
+2024-09-18 18:49:45,457 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 712 ms
+2024-09-18 18:49:46,047 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-09-18 18:49:46,047 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-09-18 18:49:46,063 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2024-09-18 18:49:46,063 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2024-09-18 18:49:46,063 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-09-18 18:49:46,063 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-09-18 18:49:46,065 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2024-09-18 18:49:46,065 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2024-09-18 18:49:46,065 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-09-18 18:49:46,065 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-09-18 18:49:46,118 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-09-18 18:49:46,118 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-09-18 18:49:47,236 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-18 18:49:47,236 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-18 18:49:47,239 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-18 18:49:47,239 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-18 18:49:48,351 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-18 18:49:48,351 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-18 18:49:48,509 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-09-18 18:49:48,509 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63040"]
+2024-09-18 18:49:48,521 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-09-18 18:49:48,521 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63040 (http) with context path '/content'
+2024-09-18 18:49:48,528 INFO [main][NacosServiceRegistry.java:75] - nacos registry, springboot-xue-project content-api 192.168.150.1:63040 register finished
+2024-09-18 18:49:48,528 INFO [main][NacosServiceRegistry.java:75] - nacos registry, springboot-xue-project content-api 192.168.150.1:63040 register finished
+2024-09-18 18:49:49,596 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-18 18:49:49,596 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-18 18:49:49,597 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-09-18 18:49:49,597 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-09-18 18:49:49,603 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-09-18 18:49:49,603 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-09-18 18:49:49,622 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-09-18 18:49:49,622 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-09-18 18:49:49,729 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 7.647 seconds (JVM running for 8.081)
+2024-09-18 18:49:49,729 INFO [main][StartupInfoLogger.java:61] - Started ContentApplication in 7.647 seconds (JVM running for 8.081)

@@ -1,0 +1,88 @@
+2024-09-22 16:01:16,193 WARN [Thread-17][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-09-22 16:01:16,193 WARN [Thread-23][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-09-22 16:01:16,193 WARN [Thread-17][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-09-22 16:01:16,193 WARN [Thread-23][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-09-22 16:01:16,200 WARN [Thread-23][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-09-22 16:01:16,200 WARN [Thread-17][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-09-22 16:01:16,200 WARN [Thread-23][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-09-22 16:01:16,200 WARN [Thread-17][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-09-22 16:01:16,244 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-22 16:01:16,244 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-22 16:01:16,246 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-09-22 16:01:16,246 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-09-22 16:01:16,246 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-22 16:01:16,246 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-22 16:01:16,248 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-22 16:01:16,248 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-22 16:01:21,972 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:349] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException
+2024-09-22 16:01:21,972 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:349] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException
+2024-09-22 16:01:21,973 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-09-22 16:01:21,973 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-09-22 16:01:21,976 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-09-22 16:01:21,976 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-09-22 16:01:21,980 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-09-22 16:01:21,980 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-09-22 16:01:25,548 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-09-22 16:01:25,548 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-09-22 16:01:26,868 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-09-22 16:01:26,868 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-09-22 16:01:27,302 INFO [main][GenericScope.java:295] - BeanFactory id=40c70fc5-9402-354b-b3d1-6360e09a6d0b
+2024-09-22 16:01:27,302 INFO [main][GenericScope.java:295] - BeanFactory id=40c70fc5-9402-354b-b3d1-6360e09a6d0b
+2024-09-22 16:01:27,463 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63110 (http)
+2024-09-22 16:01:27,463 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63110 (http)
+2024-09-22 16:01:27,468 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63110"]
+2024-09-22 16:01:27,468 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63110"]
+2024-09-22 16:01:27,468 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-09-22 16:01:27,468 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-09-22 16:01:27,469 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-09-22 16:01:27,469 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-09-22 16:01:27,529 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-09-22 16:01:27,529 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-09-22 16:01:27,529 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 653 ms
+2024-09-22 16:01:27,529 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 653 ms
+2024-09-22 16:01:28,002 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-09-22 16:01:28,002 INFO [main][PropertySourcedRequestMappingHandlerMapping.java:69] - Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2Controller#getDocumentation(String, HttpServletRequest)]
+2024-09-22 16:01:28,020 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2024-09-22 16:01:28,020 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2024-09-22 16:01:28,020 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-09-22 16:01:28,020 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-09-22 16:01:28,022 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2024-09-22 16:01:28,022 WARN [main][URLConfigurationSource.java:121] - No URLs will be polled as dynamic configuration sources.
+2024-09-22 16:01:28,023 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-09-22 16:01:28,023 INFO [main][URLConfigurationSource.java:122] - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+2024-09-22 16:01:28,073 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-09-22 16:01:28,073 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+2024-09-22 16:01:29,187 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-22 16:01:29,187 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-22 16:01:29,193 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-22 16:01:29,193 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-22 16:01:29,223 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'taskScheduler'
+2024-09-22 16:01:29,223 INFO [main][ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'taskScheduler'
+2024-09-22 16:01:30,301 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-22 16:01:30,301 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-22 16:01:30,453 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63110"]
+2024-09-22 16:01:30,453 INFO [main][DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-63110"]
+2024-09-22 16:01:30,465 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63110 (http) with context path '/system'
+2024-09-22 16:01:30,465 INFO [main][TomcatWebServer.java:220] - Tomcat started on port(s): 63110 (http) with context path '/system'
+2024-09-22 16:01:30,471 INFO [main][NacosServiceRegistry.java:75] - nacos registry, springboot-xue-project system-api 192.168.150.1:63110 register finished
+2024-09-22 16:01:30,471 INFO [main][NacosServiceRegistry.java:75] - nacos registry, springboot-xue-project system-api 192.168.150.1:63110 register finished
+2024-09-22 16:01:31,532 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-22 16:01:31,532 INFO [main][InetUtils.java:170] - Cannot determine local hostname
+2024-09-22 16:01:31,532 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-09-22 16:01:31,532 INFO [main][DocumentationPluginsBootstrapper.java:160] - Context refreshed
+2024-09-22 16:01:31,542 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-09-22 16:01:31,542 INFO [main][DocumentationPluginsBootstrapper.java:163] - Found 1 custom documentation plugin(s)
+2024-09-22 16:01:31,561 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-09-22 16:01:31,561 INFO [main][ApiListingReferenceScanner.java:41] - Scanning for api listing references
+2024-09-22 16:01:31,657 INFO [main][StartupInfoLogger.java:61] - Started SystemApplication in 7.442 seconds (JVM running for 7.865)
+2024-09-22 16:01:31,657 INFO [main][StartupInfoLogger.java:61] - Started SystemApplication in 7.442 seconds (JVM running for 7.865)
+2024-09-22 16:01:41,279 INFO [http-nio-63110-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-22 16:01:41,279 INFO [http-nio-63110-exec-1][DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-22 16:01:41,279 INFO [http-nio-63110-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-09-22 16:01:41,279 INFO [http-nio-63110-exec-1][FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+2024-09-22 16:01:41,284 INFO [http-nio-63110-exec-1][FrameworkServlet.java:547] - Completed initialization in 4 ms
+2024-09-22 16:01:41,284 INFO [http-nio-63110-exec-1][FrameworkServlet.java:547] - Completed initialization in 4 ms
+2024-09-22 16:01:41,340 INFO [http-nio-63110-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-09-22 16:01:41,340 INFO [http-nio-63110-exec-1][HikariDataSource.java:110] - HikariPool-1 - Starting...
+2024-09-22 16:01:41,545 INFO [http-nio-63110-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.
+2024-09-22 16:01:41,545 INFO [http-nio-63110-exec-1][HikariDataSource.java:123] - HikariPool-1 - Start completed.

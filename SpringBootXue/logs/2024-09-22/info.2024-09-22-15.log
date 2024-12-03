@@ -1,0 +1,16 @@
+2024-09-22 20:24:09,258 WARN [Thread-16][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-09-22 20:24:09,258 WARN [Thread-22][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-09-22 20:24:09,258 WARN [Thread-16][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-09-22 20:24:09,258 WARN [Thread-22][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-09-22 20:24:09,269 WARN [Thread-22][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-09-22 20:24:09,269 WARN [Thread-22][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-09-22 20:24:09,269 WARN [Thread-16][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-09-22 20:24:09,269 WARN [Thread-16][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-09-22 20:24:09,311 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-22 20:24:09,311 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-09-22 20:24:09,312 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-09-22 20:24:09,312 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'taskScheduler'
+2024-09-22 20:24:09,313 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-22 20:24:09,313 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-09-22 20:24:09,314 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-09-22 20:24:09,314 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.

@@ -1,0 +1,102 @@
+2024-10-17 15:45:19,369 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2d15h56m52s135ms541µs899ns).
+2024-10-17 15:45:19,369 WARN [HikariPool-1 housekeeper][HikariPool.java:787] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2d15h56m52s135ms541µs899ns).
+2024-10-17 15:45:19,397 WARN [xxl-job, JobThread-8-1728920935071][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5394a0e9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-10-17 15:45:19,397 WARN [xxl-job, JobThread-8-1728920935071][PoolBase.java:184] - HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5394a0e9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+2024-10-17 15:45:25,035 WARN [Thread-21][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-10-17 15:45:25,035 WARN [Thread-27][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-10-17 15:45:25,035 WARN [Thread-21][HttpClientBeanHolder.java:108] - [HttpClientBeanHolder] Start destroying common HttpClient
+2024-10-17 15:45:25,035 WARN [Thread-27][NotifyCenter.java:145] - [NotifyCenter] Start destroying Publisher
+2024-10-17 15:45:25,036 WARN [Thread-27][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-10-17 15:45:25,036 WARN [Thread-27][NotifyCenter.java:162] - [NotifyCenter] Destruction of the end
+2024-10-17 15:45:25,036 WARN [Thread-21][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-10-17 15:45:25,036 WARN [Thread-21][HttpClientBeanHolder.java:114] - [HttpClientBeanHolder] Destruction of the end
+2024-10-17 15:45:25,079 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-10-17 15:45:25,079 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'Nacos-Watch-Task-Scheduler'
+2024-10-17 15:45:25,080 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-10-17 15:45:25,080 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:94] - De-registering from Nacos Server now...
+2024-10-17 15:45:25,082 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-10-17 15:45:25,082 INFO [SpringContextShutdownHook][NacosServiceRegistry.java:114] - De-registration finished.
+2024-10-17 15:45:34,164 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:349] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException
+2024-10-17 15:45:34,164 WARN [SpringContextShutdownHook][DisposableBeanAdapter.java:349] - Destroy method 'close' on bean with name 'nacosServiceRegistry' threw an exception: java.lang.NullPointerException
+2024-10-17 15:45:34,166 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-10-17 15:45:34,166 INFO [SpringContextShutdownHook][ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+2024-10-17 15:45:34,168 INFO [Thread-20][EmbedServer.java:91] - >>>>>>>>>>> xxl-job remoting server stop.
+2024-10-17 15:45:34,168 INFO [Thread-20][EmbedServer.java:91] - >>>>>>>>>>> xxl-job remoting server stop.
+2024-10-17 15:45:34,172 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:87] - >>>>>>>>>>> xxl-job registry-remove success, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='xxxHandler', registryValue='http://192.168.30.1:8889/'}, registryResult:ReturnT [code=200, msg=null, content=null]
+2024-10-17 15:45:34,172 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:87] - >>>>>>>>>>> xxl-job registry-remove success, registryParam:RegistryParam{registryGroup='EXECUTOR', registryKey='xxxHandler', registryValue='http://192.168.30.1:8889/'}, registryResult:ReturnT [code=200, msg=null, content=null]
+2024-10-17 15:45:34,173 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:105] - >>>>>>>>>>> xxl-job, executor registry thread destroy.
+2024-10-17 15:45:34,173 INFO [xxl-job, executor ExecutorRegistryThread][ExecutorRegistryThread.java:105] - >>>>>>>>>>> xxl-job, executor registry thread destroy.
+2024-10-17 15:45:34,176 INFO [SpringContextShutdownHook][EmbedServer.java:117] - >>>>>>>>>>> xxl-job remoting server destroy success.
+2024-10-17 15:45:34,176 INFO [SpringContextShutdownHook][EmbedServer.java:117] - >>>>>>>>>>> xxl-job remoting server destroy success.
+2024-10-17 15:45:34,179 INFO [xxl-job, JobThread-8-1728920935071][JobThread.java:250] - >>>>>>>>>>> xxl-job JobThread stoped, hashCode:Thread[xxl-job, JobThread-8-1728920935071,10,main]
+2024-10-17 15:45:34,179 INFO [xxl-job, JobThread-8-1728920935071][JobThread.java:250] - >>>>>>>>>>> xxl-job JobThread stoped, hashCode:Thread[xxl-job, JobThread-8-1728920935071,10,main]
+2024-10-17 15:45:34,179 INFO [xxl-job, executor TriggerCallbackThread][TriggerCallbackThread.java:98] - >>>>>>>>>>> xxl-job, executor callback thread destroy.
+2024-10-17 15:45:34,179 INFO [xxl-job, executor TriggerCallbackThread][TriggerCallbackThread.java:98] - >>>>>>>>>>> xxl-job, executor callback thread destroy.
+2024-10-17 15:45:34,180 INFO [Thread-19][TriggerCallbackThread.java:128] - >>>>>>>>>>> xxl-job, executor retry callback thread destroy.
+2024-10-17 15:45:34,180 INFO [Thread-19][TriggerCallbackThread.java:128] - >>>>>>>>>>> xxl-job, executor retry callback thread destroy.
+2024-10-17 15:45:34,185 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-10-17 15:45:34,185 INFO [SpringContextShutdownHook][HikariDataSource.java:350] - HikariPool-1 - Shutdown initiated...
+2024-10-17 15:45:34,193 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-10-17 15:45:34,193 INFO [SpringContextShutdownHook][HikariDataSource.java:352] - HikariPool-1 - Shutdown completed.
+2024-10-17 15:45:49,447 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-10-17 15:45:49,447 INFO [background-preinit][Version.java:21] - HV000001: Hibernate Validator 6.1.6.Final
+2024-10-17 15:45:50,886 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-10-17 15:45:50,886 INFO [main][SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+2024-10-17 15:45:51,735 INFO [main][GenericScope.java:295] - BeanFactory id=ac90feb8-d9a4-34ab-b32d-96df065d7cdf
+2024-10-17 15:45:51,735 INFO [main][GenericScope.java:295] - BeanFactory id=ac90feb8-d9a4-34ab-b32d-96df065d7cdf
+2024-10-17 15:45:51,958 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-10-17 15:45:51,958 INFO [main][TomcatWebServer.java:108] - Tomcat initialized with port(s): 63040 (http)
+2024-10-17 15:45:51,964 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-10-17 15:45:51,964 INFO [main][DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-63040"]
+2024-10-17 15:45:51,964 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-10-17 15:45:51,964 INFO [main][DirectJDKLog.java:173] - Starting service [Tomcat]
+2024-10-17 15:45:51,964 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-10-17 15:45:51,964 INFO [main][DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.41]
+2024-10-17 15:45:52,035 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-10-17 15:45:52,035 INFO [main][DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+2024-10-17 15:45:52,035 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1142 ms
+2024-10-17 15:45:52,035 INFO [main][ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1142 ms
+2024-10-17 15:45:52,536 WARN [main][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'elasticsearchConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'elasticsearch.hostlist' in value "${elasticsearch.hostlist}"
+2024-10-17 15:45:52,536 WARN [main][AbstractApplicationContext.java:559] - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'elasticsearchConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'elasticsearch.hostlist' in value "${elasticsearch.hostlist}"
+2024-10-17 15:45:52,538 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2024-10-17 15:45:52,538 INFO [main][DirectJDKLog.java:173] - Stopping service [Tomcat]
+2024-10-17 15:45:52,544 INFO [main][ConditionEvaluationReportLoggingListener.java:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-17 15:45:52,544 INFO [main][ConditionEvaluationReportLoggingListener.java:136] - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2024-10-17 15:45:52,550 ERROR [main][SpringApplication.java:837] - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'elasticsearchConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'elasticsearch.hostlist' in value "${elasticsearch.hostlist}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:405)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1420)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:593)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:516)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:897)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:879)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:143)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:750)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:405)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:315)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1237)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1226)
+	at com.huanf.ContentApplication.main(ContentApplication.java:16)
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'elasticsearch.hostlist' in value "${elasticsearch.hostlist}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178)
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124)
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:239)
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:210)
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:918)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1248)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1227)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399)
+	... 18 more
